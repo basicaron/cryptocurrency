@@ -1,2 +1,2 @@
-# cryptocurrency
+# Cryptocurrency
 Understanding and replicating cryptocurrency
